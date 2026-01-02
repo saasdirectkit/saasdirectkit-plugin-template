@@ -1,0 +1,20 @@
+{
+  "name": "plugin-name",
+  "description": "Plugin that adds awesome new features to my nextjs project",
+  "version": "1.0.0",
+  "starterkit_path": "../saasdirectkit",
+  "routes": [
+    "/dashboard/plugin"
+  ],
+  "nav": {
+    "dashboard": [
+      {
+        "title": "dashboard",
+        "position": "top",
+        "name": "plugin-nav",
+        "url": "/dashboard/plugin",
+        "icon": ""
+      }
+    ]
+  }
+}

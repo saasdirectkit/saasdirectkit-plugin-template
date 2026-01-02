@@ -1,0 +1,13 @@
+{
+  "name": "saasdirectkit-plugin-base",
+  "type": "module",
+  "scripts": {
+    "dev": "saasdireckit-cli dev"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
